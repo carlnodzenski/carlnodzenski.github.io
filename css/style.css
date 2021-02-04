@@ -14,6 +14,7 @@
 body {
   margin: 0;
   font-family: 'Roboto Condensed', sans-serif;
+  padding-bottom: 60px;
 }
 
 .navbar {
@@ -117,12 +118,12 @@ aboutText {
   transform: translate(-50%, -50%);
 }
 .resume {
-    
+
     display: inline-block;
     width:50%;
     margin-left: 25%;
     margin-right: 25%;
-    
+
     top:0%;
     margin-top: 0%;
     }
